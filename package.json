@@ -12,10 +12,15 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
     "axios": "^1.12.2",
+    "lodash.debounce": "^4.0.8",
     "maplibre-gl": "^5.8.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-map-gl": "^8.1.0",
     "react-router-dom": "^7.9.2",
+    "react-window": "^1.8.10",
+    "recharts": "^3.2.1",
+    "supercluster": "^8.0.1",
     "tailwindcss": "^4.1.14"
   },
   "devDependencies": {

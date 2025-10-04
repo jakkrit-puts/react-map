@@ -1,6 +1,6 @@
 import axios from "axios";
 import { createContext, useContext, useEffect, useState } from "react";
-import { API_KEY, URL_API } from "../App";
+import { API_KEY, URL_API } from "../constant/config";
 
 const AppContext = createContext(null)
 
